@@ -2,7 +2,7 @@
 - I’m interested in Software Development.
 - I'm currently learning Software Development.
 - I’m looking to collaborate on everything concerning software development
-- How to reach me 09035586433
+- How to reach me 09035586433 or enybrwn@gmail.com
 
 <!---
 Enehberry/Enehberry is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
